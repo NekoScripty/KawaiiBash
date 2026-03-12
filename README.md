@@ -30,9 +30,3 @@ I am a dedicated technology enthusiast with a deep-seated passion for understand
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuxFanz&background=11111b&stroke=11111b&ring=cba6f7&fire=cba6f7&currStreakNum=cdd6f4&currStreakLabel=cba6f7&sideNums=cdd6f4&sideLabels=cba6f7&dates=cdd6f4&hide_border=true" width="100%" />
 </div>
-
-### 🌌 Daily Dev Inspiration
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=000000&quote_color=cba6f7&author_color=cba6f7&text_color=cdd6f4" width="100%" />
-</div>
