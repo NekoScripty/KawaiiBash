@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=200&section=header&text=TuxFanz&fontSize=70&fontColor=11111b&animation=twinkle" width="100%" />
-
+  
   ## 💜 Computerphile | Systems Explorer | Linux Enthusiast
   *“First understand the computer, then teach it to work for you.”*
 
