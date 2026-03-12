@@ -36,6 +36,12 @@ I Am A Dedicated Technology Enthusiast With a Deep-Seated Passion For Understand
 
 <div align="center">
   <h3>☂️ Teck Stack</h3>
+  <p align="center">
+    <a href="https://wiki.archlinux.org/title/Main_page"><img src="https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=arch-linux&logoColor=cba6f7" /></a>
+    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://img.shields.io/badge/Bash_Shell-1e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=cba6f7" /></a>
+    <a href="https://en.wikipedia.org/wiki/Neovim"><img src="https://img.shields.io/badge/Neovim-1e1e2e?style=for-the-badge&logo=neovim&logoColor=cba6f7" /></a>
+    <a href="https://en.wikipedia.org/wiki/Git"><img src="https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=cba6f7" /></a>
+  </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,arch,html,css,js&theme=dark" />
 </p>
