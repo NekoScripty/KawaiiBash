@@ -13,8 +13,6 @@
 
 </div>
 
----
-
 ### 🔮 About Me
 
 I am a dedicated technology enthusiast with a deep-seated passion for understanding computing systems at their core. I focus on mastering **Bash** to build **efficient, automated workflows** that enhance productivity and system performance.
@@ -22,8 +20,6 @@ I am a dedicated technology enthusiast with a deep-seated passion for understand
 * 🟣 **Focusing on:** System Internals & Workflow Optimization.
 * 🟣 **Goal:** *Optimizing operations through technical automation.*
 * 🟣 **Ask me about:** Shell scripting, Vim motions, or why Arch is my daily driver.
-
----
 
 ### 🍇 Contribution Graph
 
