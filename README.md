@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=invWave&color=9381ff&height=120&section=header&text=TuxFanz&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=9381ff&height=120&section=header&text=Hi%20I'm%20Mr.%20Cat&fontSize=50&animation=fadeIn" width="100%" />
 
-  ## 🐈 Computerphile & Linux Enthusiast
+  ## Computerphile & Linux Enthusiast
 </div>
 
 ### 🔮 About Me
@@ -41,24 +41,22 @@
 ### 👾 Performance & Contributions
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x11kitty&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x11kitty&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 ---
 
-### 🌌 Languages & Insight
+### 🌌 Random Dev Quote
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x11kitty&layout=compact&theme=tokyonight&hide_border=true" />
-  
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" />
   
   > "When in doubt, leave it out."  
   > *— Joshua Bloch*
 </div>
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=9381ff&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/render?type=soft&color=9381ff&height=50&section=footer" width="100%" />
