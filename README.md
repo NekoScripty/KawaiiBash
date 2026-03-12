@@ -30,7 +30,7 @@ I am a dedicated technology enthusiast with a deep-seated passion for understand
 
 <div align="center">
 
-### 📊 GitHub Analytics
+### 👾 GitHub Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=TuxFanz&bg_color=11111b&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&show_icons=true&count_private=true&hide_border=true" height="175px" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuxFanz&layout=compact&bg_color=11111b&title_color=cba6f7&text_color=cdd6f4&hide_border=true" height="175px" />
