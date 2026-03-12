@@ -1,6 +1,6 @@
 <div align="center">
 
-## ⚡ Computerphile | Systems Explorer | Linux Enthusiast
+## 💜 Computerphile | Systems Explorer | Linux Enthusiast
 
 *“First understand the computer, then teach it to work for you.”*
 
