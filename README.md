@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=cba6f7&height=180&section=header&text=KAWAII%20BASH&fontSize=50&fontAlignY=50&animation=fadeIn&fontColor=11111b" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=cba6f7&height=180&section=header&text=Hello,%20Welcome!&fontSize=50&fontAlignY=50&animation=fadeIn&fontColor=11111b" width="100%" />
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=cba6f7&center=true&vCenter=true&width=500&lines=Computerphile;Systems+Explorer;Linux+Enthusiast;BashScripting;Code+And+Programming" alt="Typing SVG" />
 
