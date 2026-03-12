@@ -2,13 +2,7 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=cba6f7&center=true&vCenter=true&width=500&lines=Computerphile;Systems+Explorer;Linux+Enthusiast" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=cba6f7&height=2&width=150&text=" />
-  <br />
-  <kbd><b>“First understand the computer, then teach it to work for you.”</b></kbd>
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=cba6f7&height=2&width=150&text=" />
-</p>
+> ### “First understand the computer, then teach it to work for you.”
 <!--
   <p align="center">
     <em>“First understand the computer, then teach it to work for you.”</em>
