@@ -31,11 +31,9 @@ I am a dedicated technology enthusiast with a deep-seated passion for understand
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TuxFanz&bg_color=11111b&color=cdd6f4&line=cba6f7&point=cba6f7&area=true&hide_border=true" width="100%" />
 </div>
 
-<br />
-
 <div align="center">
 ### 👾 GitHub Analytics
-</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TuxFanz&bg_color=11111b&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&show_icons=true&count_private=true&hide_border=true" height="175px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuxFanz&layout=compact&bg_color=11111b&title_color=cba6f7&text_color=cdd6f4&hide_border=true" height="175px" />
@@ -45,4 +43,5 @@ I am a dedicated technology enthusiast with a deep-seated passion for understand
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=120&section=footer" width="100%" />
+</div>
 </div>
