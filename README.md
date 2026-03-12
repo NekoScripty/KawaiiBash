@@ -1,8 +1,5 @@
 <div align="center">
-
   ![Header GIF](assets/1.gif)
-
-  <br />
 </div>
 
 <div align="center">
