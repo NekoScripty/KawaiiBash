@@ -31,7 +31,6 @@ I am a dedicated technology enthusiast with a deep-seated passion for understand
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TuxFanz&bg_color=11111b&color=cdd6f4&line=cba6f7&point=cba6f7&area=true&hide_border=true" width="100%" />
 </div>
 
-<div align="center">
 ### 👾 GitHub Analytics
 
 <div align="center">
@@ -43,5 +42,4 @@ I am a dedicated technology enthusiast with a deep-seated passion for understand
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=120&section=footer" width="100%" />
-</div>
 </div>
