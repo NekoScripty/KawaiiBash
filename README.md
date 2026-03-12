@@ -1,56 +1,56 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=9381ff&height=120&section=header&text=Hi%20I'm%20Mr.%20Cat&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=7aa2f7&height=200&section=header&text=Hi,%20I'm%20Mr.%20Cat&fontSize=70&animation=fadeIn" width="100%" />
 
-  ## Computerphile & Linux Enthusiast
+  ### ⚡ Computerphile | Systems Explorer | Linux Enthusiast
+  
+  *“First understand the computer, then teach it to work for you.”*
+
+  <img src="https://img.shields.io/badge/ARCH_LINUX-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> <img src="https://img.shields.io/badge/BASH_SHELL-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/NEOVIM-57A143?style=for-the-badge&logo=neovim&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
+
+---
 
 ### 🔮 About Me
 
-<table>
-  <tr>
-    <td width="30%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=x11kitty&repo=x11kitty&theme=tokyonight&show_owner=false" width="150px" style="border-radius: 50%;" />
-    </td>
-    <td width="70%">
-      <h4>🔹 Computerphile & Systems Explorer</h4>
-      <p>A dedicated technology enthusiast with a deep-seated passion for understanding computing systems at their core. Driven by curiosity and precision, I focus on mastering <b>Bash</b> to build <b>efficient, automated workflows</b> that enhance productivity and system performance.</p>
-      <i>"First understand the computer, then teach it to work for you."</i>
-    </td>
-  </tr>
-</table>
+I am a dedicated technology enthusiast with a deep-seated passion for understanding computing systems at their core. I specialize in **Bash scripting** and **Arch Linux** to build efficient, automated workflows that bridge the gap between human intent and machine execution.
 
-* **Core Interests:** System Internals • Scripting • Workflow Optimization
-* **Objective:** "Optimizing operations through technical automation."
-* **Mastering:** 🍃 `BASH` 🚀 `ARCH LINUX` 🔥 `GIT`
+* 🔭 **Focusing on:** System Internals & Workflow Optimization.
+* 🚀 **Goal:** Optimizing operations through technical automation.
+* 💬 **Ask me about:** Shell scripting, Vim motions, or why Arch is my daily driver.
 
-### 💜 Tech Stack & Tools
+---
+
+### 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://img.shields.io/badge/OS-ARCH_LINUX-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/SHELL-BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/EDITOR-VIM-019733?style=for-the-badge&logo=vim&logoColor=white" />
-  <img src="https://img.shields.io/badge/VC-GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=bash,arch,linux,vim,git,github,neovim" />
+  <img src="https://skillicons.dev/icons?i=bash,arch,linux,vim,neovim,git,github,powershell,discord" />
 </div>
 
-### 👾 Performance & Contributions
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuxFanz&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" alt="Streak Stats" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=TuxFanz&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="170px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuxFanz&layout=compact&theme=tokyonight&hide_border=true" height="170px" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuxFanz&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=TuxFanz&theme=shadow_green&hide_border=false" alt="GitHub Stats" />
-</div>
+---
 
 ### 🌌 Random Dev Quote
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&visitcount.itsvg.in/api?id=TuxFanz&icon=0&color=0&visitcount.itsvg.in" />
-  
-  > "When in doubt, leave it out."  
-  > *— Joshua Bloch*
-</div>
+> *"When in doubt, leave it out."* > — **Joshua Bloch**
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=9381ff&height=50&section=footer" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=7aa2f7&height=50&section=footer" width="100%" />
+</div>
