@@ -21,7 +21,7 @@
 </table>
       </p>
       <p>
-        🟢 <b>Focus:</b> System Internals & BashScripting & Automate Task <br>
+        🟢 <b>Focus:</b> System Internals & BashScripting & Linux <br>
         🟢 <b>Objective:</b>Optimizing Operations Through Technical Automation, And Help Solve Problem of People Related to My Skills<br>
         🟢 <b>Mastering:</b> Vim, Linux, Shell
       </p>
