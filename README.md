@@ -15,8 +15,6 @@
       <h3 style="color: #40a02b; margin-top: 0;">🌿 About Me</h3>
       <p>
         I am a dedicated <b>Technology Enthusiast</b> with a deep-seated passion for understanding computing systems at their core. 
-      </p>
-      <p>
         I focus on mastering <code style="color: #40a02b;">Bash</code> to build <b>efficient, automated daily workflows</b> that enhance productivity and system performance.
       </p>
       <p>
