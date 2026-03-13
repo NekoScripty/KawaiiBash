@@ -8,7 +8,7 @@
 
 <table align="center">
   <tr>
-    <td width="80%" align="center">
+    <td width="25%" align="center">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMc7wBVJFZisS9v6S0/giphy.gif" width="100%" style="border-radius: 10px;" />
     </td>
     <td width="25%" valign="middle">
