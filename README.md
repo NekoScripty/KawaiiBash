@@ -15,7 +15,7 @@
 
 I Am A Dedicated Technology Enthusiast With a Deep-Seated Passion For Understanding Computing Systems At Their Core. I Focus On Mastering **Bash** To Build **Efficient, Automated Daily Workflows** That Enhance Productivity And System Performance.
 
-* 🟣 **Focusing on:** System Internals * Scripting * Workflow Optimization.
+* 🟣 **Focusing on:** System Internals - Scripting - Workflow Optimization - Programming - CoDe.
 * 🟣 **Objective:** *Optimizing Operations Through Technical Automation, And Help Solve Problem of People Related to My Skills*
 * 🟣 **Mastering:** ./Bash Shell-Scripting, Vim, Linux
 
