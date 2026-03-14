@@ -22,7 +22,7 @@
 </table>
 <p>
         ❄️ <b>Focus:</b> System Internals & BashScripting & Linux/Unix <br>
-        💎 <b>Objective:</b> Optimizing Operations Through Technical Automation, And Help Solve Problem of People Related to My Skills<br>
+        💎 <b>Objective:</b> Optimizing Operations Through Technical Automation, And Help Solve Problem of People Related to My Skills
         <p align="left"> 
   <b>🐋 Mastering:</b>
   <a href="https://archlinux.org/">
