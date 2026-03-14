@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00aaff&center=true&vCenter=true&width=500&lines=Computerphile;Systems+Explorer;Linux+Enthusiast;Bash+Scripting;Code+And+Programming" alt="Typing SVG" />
 </div>
 
----
-
 <table align="center" style="border: none;">
   <tr>
     <td width="20%" align="center">
@@ -27,14 +25,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 💡 Random Dev Quote
-> [!TIP]
-> **"Weeks of coding can save you hours of planning."** > *(Or try: "It works on my machine" — the universal developer's mantra.)*
-
----
 
 <div align="center">
   <code><b>$ grep -i "philosophy" /dev/brain</b></code><br>
