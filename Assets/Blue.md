@@ -26,6 +26,7 @@
         🐋 <b>Mastering:</b><a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=arch-linux&logoColor=87CEEB" alt="Arch Linux" /></a>
     <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash_Shell-1e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=87CEEB" alt="Bash" /></a>
     <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=87CEEB" alt="Git" /></a>
+  <a href="https://en.wikipedia.org/wiki/Neovim"><img src="https://img.shields.io/badge/Neovim-1e1e2e?style=for-the-badge&logo=neovim&logoColor=87CEEB" /></a>
   <!--
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python_3-1e1e2e?style=for-the-badge&logo=python&logoColor=87CEEB" alt="Python" /></a>
       </p>
@@ -40,12 +41,6 @@
 
 <div align="center">
   <h3>🧊 Tech Stack</h3>
-  <p align="center">
-    <a href="https://wiki.archlinux.org/title/Main_page"><img src="https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=arch-linux&logoColor=87CEEB" /></a>
-    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://img.shields.io/badge/Bash_Shell-1e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=87CEEB" /></a>
-    <a href="https://en.wikipedia.org/wiki/Neovim"><img src="https://img.shields.io/badge/Neovim-1e1e2e?style=for-the-badge&logo=neovim&logoColor=87CEEB" /></a>
-    <a href="https://en.wikipedia.org/wiki/Git"><img src="https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=87CEEB" /></a>
-  </p>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,arch&theme=dark" />
   </p>
