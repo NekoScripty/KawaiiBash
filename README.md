@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=190&section=header&text=Kawaii,%20Bash&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=11111b" width="100%" />
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=87CEEB&center=true&vCenter=true&width=500&lines=Computerphile;Systems+Explorer;Linux+Enthusiast;BashScripting;Code+And+Programming" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=87CEEB&center=true&vCenter=true&width=500&lines=Python+Developer;JS+Beginner;Automation+Enthusiast;Code+And+Programming" alt="Typing SVG" />
 </div>
 
 <table align="center">
@@ -14,35 +14,33 @@
     <td width="70%" valign="middle">
       <h3 style="color: #87CEEB; margin-top: 0;">🐬 About Me</h3>
       <p>
-        I am a dedicated <b>Technology Enthusiast</b> with a deep-seated passion for understanding computing systems at their core. 
-        I focus on mastering <code style="color: #87CEEB;">Bash</code> to build <b>efficient, automated daily workflows</b> that enhance productivity and system performance.
+        I am a dedicated <b>Technology Enthusiast</b> and <b>Beginner Programmer</b>. 
+        I focus on mastering <code style="color: #87CEEB;">Python</code> and <code style="color: #87CEEB;">JavaScript</code> to build <b>intelligent automation</b> and modern applications that solve real-world problems.
       </p>
       </td>
   </tr>
 </table>
 <p>
-        ❄️ <b>Focus:</b> System Internals & BashScripting & Linux/Unix <br>
-        💎 <b>Objective:</b> Optimizing Operations Through Technical Automation, And Help Solve Problem of People Related to My Skills<br>
-        🐋 <b>Mastering:</b><a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=arch-linux&logoColor=87CEEB" alt="Arch Linux" /></a>
-    <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash_Shell-1e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=87CEEB" alt="Bash" /></a>
+        ❄️ <b>Focus:</b> Automation & Scripting & Web Logic <br>
+        💎 <b>Objective:</b> Optimizing Operations Through Programming, and helping people solve technical problems with code.<br>
+        🐋 <b>Mastering:</b>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=87CEEB" alt="Python" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=87CEEB" alt="JS" /></a>
     <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=87CEEB" alt="Git" /></a>
   <a href="https://en.wikipedia.org/wiki/Neovim"><img src="https://img.shields.io/badge/Neovim-1e1e2e?style=for-the-badge&logo=neovim&logoColor=87CEEB" /></a>
-  <!--
-    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python_3-1e1e2e?style=for-the-badge&logo=python&logoColor=87CEEB" alt="Python" /></a>
-      </p>
--->
+</p>
 
 <div align="center">
   <code><b>$ grep -i "philosophy" /dev/brain</b></code><br>
   <p style="color: #87CEEB; font-family: 'Fira Code', monospace; margin-top: 10px;">
-    "First understand the computer, then teach it to work for you."
+    "First understand the logic, then teach the machine to execute it."
   </p>
 </div>
 
 <div align="center">
   <h3>🧊 Tech Stack</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github,arch&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,js,nodejs,git,github,vscode,vim&theme=dark" />
   </p>
 </div>
 
