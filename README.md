@@ -27,6 +27,7 @@
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=87CEEB" alt="Python" /></a>
     <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-1e1e2e?style=for-the-badge&logo=gnubash&logoColor=87CEEB" alt="Bash" /></a>
     <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=archlinux&logoColor=87CEEB" alt="Arch" /></a>
+    <a href="https://vim.org/"><img src="https://img.shields.io/badge/Vim-1e1e2e?style=for-the-badge&logo=vim&logoColor=87CEEB" alt="vim" /></a>
 </p>
 
 <div align="center">
@@ -39,7 +40,7 @@
 <div align="center">
   <h3>🧊 Tech Stack</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,bash,linux,arch,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,bash,linux,arch,github,vim&theme=dark" />
   </p>
 </div>
 
