@@ -39,7 +39,7 @@
 <div align="center">
   <h3>🧊 Tech Stack</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,go,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,go,git,github,vscode,windows&theme=dark" />
   </p>
 </div>
 
