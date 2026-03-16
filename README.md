@@ -15,7 +15,7 @@
       <h3 style="color: #87CEEB; margin-top: 0;">🐬 About Me</h3>
       <p>
         I am a dedicated <b>Technology Enthusiast</b> and <b>Backend Development Beginning Learner</b> with a focus on building scalable logic. 
-        I am mastering <code style="color: #87CEEB;">Python</code> and <code style="color: #87CEEB;">Golang</code> to create <b>powerful backend systems</b> that streamline complex tasks and improve digital workflows.
+        I am mastering <code style="color: #87CEEB;">Python</code> and <code style="color: #87CEEB;">Golang</code> to create <b>powerful backend systems</b> and <b>Automation Programming</b> that streamline complex tasks and improve digital workflows.
       </p>
       </td>
   </tr>
