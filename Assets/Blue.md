@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=190&section=header&text=Neko,%20Go&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=11111b" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=190&section=header&text=Neko,%20Scripty&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=11111b" width="100%" />
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=87CEEB&center=true&vCenter=true&width=500&lines=Python+Developer;Go+Backend;Process+Optimization;Code+And+Programming" alt="Typing SVG" />
 </div>
@@ -15,7 +15,7 @@
       <h3 style="color: #87CEEB; margin-top: 0;">🐬 About Me</h3>
       <p>
         I am a dedicated <b>Technology Enthusiast</b> and <b>Backend Development Beginning Learner</b> with a focus on building scalable logic. 
-        I am mastering <code style="color: #87CEEB;">Python</code> and <code style="color: #87CEEB;">Golang</code> to create <b>powerful backend systems</b> and <b>Automate Workflow</b> that streamline complex tasks and improve digital workflows.
+        I am mastering <code style="color: #87CEEB;">Python</code> and <code style="color: #87CEEB;">Golang</code> to create <b>powerful backend systems</b> and <b>Automation Programming</b> that streamline complex tasks and improve digital workflows.
       </p>
       </td>
   </tr>
@@ -39,17 +39,17 @@
 <div align="center">
   <h3>🧊 Tech Stack</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,go,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,go,git,github,vscode,windows&theme=dark" />
   </p>
 </div>
 
 <h3 align="center">💧 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NekoGo&bg_color=11111b&title_color=87CEEB&text_color=cdd6f4&icon_color=87CEEB&show_icons=true&count_private=true&hide_border=true" height="170px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NekoGo&background=11111b&stroke=11111b&ring=87CEEB&fire=87CEEB&currStreakNum=cdd6f4&currStreakLabel=87CEEB&sideNums=cdd6f4&sideLabels=87CEEB&dates=cdd6f4&hide_border=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NekoScripty&bg_color=11111b&title_color=87CEEB&text_color=cdd6f4&icon_color=87CEEB&show_icons=true&count_private=true&hide_border=true" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NekoScripty&background=11111b&stroke=11111b&ring=87CEEB&fire=87CEEB&currStreakNum=cdd6f4&currStreakLabel=87CEEB&sideNums=cdd6f4&sideLabels=87CEEB&dates=cdd6f4&hide_border=true" height="170px" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NekoGo&bg_color=11111b&color=cdd6f4&line=87CEEB&point=87CEEB&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NekoScripty&bg_color=11111b&color=cdd6f4&line=87CEEB&point=87CEEB&area=true&hide_border=true" width="100%" />
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer" width="100%" />
 </div>
