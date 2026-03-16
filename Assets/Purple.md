@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=190&section=header&text=Kawaii,%20Code&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=11111b" width="100%" />
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=cba6f7&center=true&vCenter=true&width=500&lines=Python+Developer;JS+Automation;Scripting+Expert;Process+Optimization;Code+And+Programming" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=cba6f7&center=true&vCenter=true&width=500&lines=Python+Developer;Go+Backend;SQL+Architecture;Process+Optimization;Code+And+Programming" alt="Typing SVG" />
 </div>
 
 <table align="center">
@@ -14,16 +14,16 @@
     <td width="70%" valign="middle">
       <h3 style="color: #cba6f7; margin-top: 0;">🔮 About Me</h3>
       <p>
-        I am a dedicated <b>Technology Enthusiast</b> and <b>Programming Beginner</b> with a focus on building scalable logic. 
-        I am mastering <code style="color: #cba6f7;">Python</code> and <code style="color: #cba6f7;">JavaScript</code> to create <b>powerful automation scripts</b> that streamline complex tasks and improve digital workflows.
+        I am a dedicated <b>Technology Enthusiast</b> and <b>Backend Development Beginning Learner</b> with a focus on building scalable logic. 
+        I am mastering <code style="color: #cba6f7;">Python</code>, <code style="color: #cba6f7;">Golang</code>, and <code style="color: #cba6f7;">SQL</code> to create <b>powerful backend systems</b> that streamline complex tasks and improve digital workflows.
       </p>
       </td>
   </tr>
 </table>
 <p>
-        🟣 <b>Focus:</b> Automation & Python Scripting & Web Logic <br>
+        🟣 <b>Focus:</b> Backend Development & Python Scripting & Database Logic <br>
         ☂️ <b>Objective:</b> Solving Problems Through Technical Automation & Helping Others with Code-Driven Solutions<br>
-        👾 <b>Mastering:</b> Python, JavaScript, Git
+        👾 <b>Mastering:</b> Python, Golang, SQL, Git
       </p>
 
 <div align="center">
@@ -37,12 +37,12 @@
   <h3>🍇 Tech Stack</h3>
   <p align="center">
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=cba6f7" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=cba6f7" /></a>
-    <a href="https://en.wikipedia.org/wiki/Neovim"><img src="https://img.shields.io/badge/Neovim-1e1e2e?style=for-the-badge&logo=neovim&logoColor=cba6f7" /></a>
+    <a href="https://go.dev/"><img src="https://img.shields.io/badge/Golang-1e1e2e?style=for-the-badge&logo=go&logoColor=cba6f7" /></a>
+    <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=cba6f7" /></a>
     <a href="https://en.wikipedia.org/wiki/Git"><img src="https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=cba6f7" /></a>
   </p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,js,nodejs,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,go,postgres,mysql,git,github,vscode&theme=dark" />
   </p>
 </div>
 
