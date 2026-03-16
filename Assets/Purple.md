@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=190&section=header&text=Kawaii,%20Code&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=11111b" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=190&section=header&text=Neko,%20Scripty&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=11111b" width="100%" />
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=cba6f7&center=true&vCenter=true&width=500&lines=Python+Developer;Go+Backend;SQL+Architecture;Process+Optimization;Code+And+Programming" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=cba6f7&center=true&vCenter=true&width=500&lines=Python+Developer;Go+Backend;Process+Optimization;Code+And+Programming" alt="Typing SVG" />
 </div>
 
 <table align="center">
@@ -15,16 +15,19 @@
       <h3 style="color: #cba6f7; margin-top: 0;">🔮 About Me</h3>
       <p>
         I am a dedicated <b>Technology Enthusiast</b> and <b>Backend Development Beginning Learner</b> with a focus on building scalable logic. 
-        I am mastering <code style="color: #cba6f7;">Python</code>, <code style="color: #cba6f7;">Golang</code>, and <code style="color: #cba6f7;">SQL</code> to create <b>powerful backend systems</b> that streamline complex tasks and improve digital workflows.
+        I am mastering <code style="color: #cba6f7;">Python</code> and <code style="color: #cba6f7;">Golang</code> to create <b>powerful backend systems</b> and <b>Automation Programming</b> that streamline complex tasks and improve digital workflows.
       </p>
       </td>
   </tr>
 </table>
 <p>
-        🟣 <b>Focus:</b> Backend Development & Python Scripting & Database Logic <br>
+        🟣 <b>Focus:</b> Backend Development & Python Scripting & System Logic <br>
         ☂️ <b>Objective:</b> Solving Problems Through Technical Automation & Helping Others with Code-Driven Solutions<br>
-        👾 <b>Mastering:</b> Python, Golang, SQL, Git
-      </p>
+        👾 <b>Mastering:</b> 
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=cba6f7" alt="Python" /></a>
+    <a href="https://go.dev/"><img src="https://img.shields.io/badge/Golang-1e1e2e?style=for-the-badge&logo=go&logoColor=cba6f7" alt="Go" /></a>
+    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=cba6f7" alt="Git" /></a>
+</p>
 
 <div align="center">
   <code><b>$ grep -i "philosophy" /dev/brain</b></code><br>
@@ -36,23 +39,17 @@
 <div align="center">
   <h3>🍇 Tech Stack</h3>
   <p align="center">
-    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=cba6f7" /></a>
-    <a href="https://go.dev/"><img src="https://img.shields.io/badge/Golang-1e1e2e?style=for-the-badge&logo=go&logoColor=cba6f7" /></a>
-    <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=cba6f7" /></a>
-    <a href="https://en.wikipedia.org/wiki/Git"><img src="https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=cba6f7" /></a>
-  </p>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,go,postgres,mysql,git,github,vscode,windows&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,go,git,github,vscode,windows&theme=dark" />
   </p>
 </div>
 
 <h3 align="center">💜 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KawaiiBash&bg_color=11111b&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&show_icons=true&count_private=true&hide_border=true" height="170px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KawaiiBash&background=11111b&stroke=11111b&ring=cba6f7&fire=cba6f7&currStreakNum=cdd6f4&currStreakLabel=cba6f7&sideNums=cdd6f4&sideLabels=cba6f7&dates=cdd6f4&hide_border=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NekoScripty&bg_color=11111b&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&show_icons=true&count_private=true&hide_border=true" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NekoScripty&background=11111b&stroke=11111b&ring=cba6f7&fire=cba6f7&currStreakNum=cdd6f4&currStreakLabel=cba6f7&sideNums=cdd6f4&sideLabels=cba6f7&dates=cdd6f4&hide_border=true" height="170px" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KawaiiBash&bg_color=11111b&color=cdd6f4&line=cba6f7&point=cba6f7&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NekoScripty&bg_color=11111b&color=cdd6f4&line=cba6f7&point=cba6f7&area=true&hide_border=true" width="100%" />
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=120&section=footer" width="100%" />
 </div>
