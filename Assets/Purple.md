@@ -22,7 +22,7 @@
 </table>
 <p>
         ✨ <b>Focus:</b> Automation & Python Scripting & Web Logic <br>
-        🧪 <b>Objective:</b> Solving Problems Through Technical Automation & Helping Others with Code-Driven Solutions<br>
+        ☂️ <b>Objective:</b> Solving Problems Through Technical Automation & Helping Others with Code-Driven Solutions<br>
         👾 <b>Mastering:</b> Python, JavaScript, Git
       </p>
 
@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-  <h3>🎆 Tech Stack</h3>
+  <h3>🍇 Tech Stack</h3>
   <p align="center">
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=cba6f7" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=cba6f7" /></a>
@@ -46,7 +46,7 @@
   </p>
 </div>
 
-<h3 align="center">🌌 GitHub Analytics</h3>
+<h3 align="center">💜 GitHub Analytics</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KawaiiBash&bg_color=11111b&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&show_icons=true&count_private=true&hide_border=true" height="170px" />
