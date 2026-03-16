@@ -21,7 +21,7 @@
   </tr>
 </table>
 <p>
-        ✨ <b>Focus:</b> Automation & Python Scripting & Web Logic <br>
+        🟣 <b>Focus:</b> Automation & Python Scripting & Web Logic <br>
         ☂️ <b>Objective:</b> Solving Problems Through Technical Automation & Helping Others with Code-Driven Solutions<br>
         👾 <b>Mastering:</b> Python, JavaScript, Git
       </p>
