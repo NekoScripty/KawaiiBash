@@ -42,7 +42,7 @@
     <a href="https://en.wikipedia.org/wiki/Git"><img src="https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=cba6f7" /></a>
   </p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,go,postgres,mysql,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,go,postgres,mysql,git,github,vscode,windows&theme=dark" />
   </p>
 </div>
 
