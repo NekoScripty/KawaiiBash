@@ -33,8 +33,7 @@
 <div align="center">
   <code><b>$ grep -i "philosophy" /dev/brain</b></code><br>
   <p style="color: #87CEEB; font-family: 'Fira Code', monospace; margin-top: 10px;">
-    <code>"First understand the logic,</code><br>
-     <code>then teach the machine to work for you."</code>
+    <code>"First understand the logic, then teach the machine to work for you."</code>
   </p>
 </div>
 
