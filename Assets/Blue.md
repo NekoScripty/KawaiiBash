@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=190&section=header&text=Neko,%20Scripty&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=11111b" width="100%" />
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=87CEEB&center=true&vCenter=true&width=500&lines=Python+Developer;Go+Backend;Process+Optimization;Code+And+Programming" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=87CEEB&center=true&vCenter=true&width=500&lines=Python+Developer;Bash+Scripting;Process+Optimization;Arch+Linux+User;Code+And+Programming" alt="Typing SVG" />
 </div>
 
 <table align="center">
@@ -14,32 +14,33 @@
     <td width="70%" valign="middle">
       <h3 style="color: #87CEEB; margin-top: 0;">🐬 About Me</h3>
       <p>
-        I am a dedicated <b>Technology Enthusiast</b> and <b>Backend Development Beginning Learner</b> with a focus on building scalable logic. 
-        I am mastering <code style="color: #87CEEB;">Python</code> and <code style="color: #87CEEB;">Golang</code> to create <b>powerful backend systems</b> and <b>Automation Programming</b> that streamline complex tasks and improve digital workflows.
+        I am a dedicated <b>Technology Enthusiast</b> and <b>Automation Learner</b> with a focus on system-level logic. 
+        I am mastering <code style="color: #87CEEB;">Python</code> and <code style="color: #87CEEB;">Bash Scripting</code> to create <b>efficient Linux environments</b> and <b>Automation Tools</b> that streamline complex tasks and optimize digital workflows.
       </p>
       </td>
   </tr>
 </table>
 <p>
-        ❄️ <b>Focus:</b> Backend Development & Python Scripting & System Logic <br>
+        ❄️ <b>Focus:</b> Linux Systems & Python Scripting & Shell Logic <br>
         💎 <b>Objective:</b> Solving Problems Through Technical Automation & Helping Others with Code-Driven Solutions<br>
          Whale <b>Mastering:</b> 
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=87CEEB" alt="Python" /></a>
-    <a href="https://go.dev/"><img src="https://img.shields.io/badge/Golang-1e1e2e?style=for-the-badge&logo=go&logoColor=87CEEB" alt="Go" /></a>
-    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=87CEEB" alt="Git" /></a>
+    <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-1e1e2e?style=for-the-badge&logo=gnubash&logoColor=87CEEB" alt="Bash" /></a>
+    <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=archlinux&logoColor=87CEEB" alt="Arch" /></a>
+    <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/Vim-1e1e2e?style=for-the-badge&logo=vim&logoColor=87CEEB" alt="vim" /></a>
 </p>
 
 <div align="center">
   <code><b>$ grep -i "philosophy" /dev/brain</b></code><br>
   <p style="color: #87CEEB; font-family: 'Fira Code', monospace; margin-top: 10px;">
-    "First understand the logic, then teach the machine to work for you."
+    <code>"First Understand The Logic, Then Teach The Machine To Work For You."</code>
   </p>
 </div>
 
 <div align="center">
   <h3>🧊 Tech Stack</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,go,git,github,vscode,windows&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,bash,linux,arch,github,vim&theme=dark" />
   </p>
 </div>
 
