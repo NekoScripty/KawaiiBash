@@ -53,5 +53,10 @@
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NekoScripty&bg_color=000000&color=aaaaaa&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
   <br/>
+</div>
+
+<div align="center">
+  <h3>🏴‍☠️ Random Dev Quotes</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=ffffff&backgroundColor=000000" alt="Random Dev Quote" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%" />
 </div>
