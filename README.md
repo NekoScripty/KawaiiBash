@@ -56,6 +56,7 @@
 </div>
 
 <div align="center">
+  <h3>🏴‍☠️ Random Dev Quotes</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=ffffff&backgroundColor=000000" alt="Random Dev Quote" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%" />
 </div>
