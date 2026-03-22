@@ -1,3 +1,7 @@
+<!--
+$ status | grep "Isolated" 99.9% uptime./ ❄️ social-skills: 404 NOT FOUND "Error" ?💧 🐋 Python & Bash
+-->
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=190&section=header&text=Neko,%20Scripty&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=11111b" width="100%" />
   <br><br>
