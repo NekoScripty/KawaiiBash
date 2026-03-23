@@ -21,9 +21,12 @@
   </tr>
 </table>
 
+<p align="left">
+  ⚪ <b style="color: #1f2937;">Focus:</b> Linux Systems & Python Scripting & Shell Logic <br>
+        🐑 <b style="color: #1f2937;">Objective:</b> Solving Problems Through Technical Automation & Helping Others
+</p>
+
 <p align="center">
-        ⚪ <b style="color: #1f2937;">Focus:</b> Linux Systems & Python Scripting & Shell Logic <br>
-        🐑 <b style="color: #1f2937;">Objective:</b> Solving Problems Through Technical Automation & Helping Others<br><br>
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /></a>
     <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-ffffff?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" /></a>
     <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-ffffff?style=for-the-badge&logo=archlinux&logoColor=1793D1" alt="Arch" /></a>
