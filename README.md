@@ -15,7 +15,7 @@
       <h3 style="color: #0077b6; margin-top: 0;">🐬 About Me</h3>
       <p style="color: #4b5563;">
         I am a dedicated <b>Technology Enthusiast</b> and <b>Automation Learner</b> with a focus on system-level logic. 
-        I am mastering <code style="color: #0284c7; background-color: #f0f9ff;">Python</code> and <code style="color: #0284c7; background-color: #f0f9ff;">Bash Scripting</code> to create <b>efficient Linux environments</b> and <b>Automation Tools</b> that streamline complex tasks and optimize digital workflows.
+        I am mastering <code style="color: #0284c7; background-color: #f0f9ff;">Python</code> and <code style="color: #0284c7; background-color: #f0f9ff;">Bash Scripting</code> to create <b>efficient Linux environments</b> and <b>Automation Tools</b>.
       </p>
       </td>
   </tr>
@@ -29,6 +29,10 @@
     <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-ffffff?style=for-the-badge&logo=archlinux&logoColor=1793D1" alt="Arch" /></a>
     <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/Vim-ffffff?style=for-the-badge&logo=vim&logoColor=019733" alt="vim" /></a>
 </p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight_light" alt="Dev Quote" />
+</div>
 
 <div align="center">
   <code style="color: #6b7280;"><b>$ grep -i "philosophy" /dev/brain</b></code><br>
