@@ -11,7 +11,7 @@ $ status | grep "Isolated" 99.9% uptime./ ❄️ social-skills: 404 NOT FOUND "E
 <table align="center">
   <tr>
     <td width="15%" align="center">
-      <img src="Assets/Blue.png" 
+      <img src="Assets/white.gif" 
            width="180px" 
            style="border-radius: 8px; border: 1px solid #87CEEB;" />
     </td>
