@@ -51,10 +51,10 @@ $ status | grep "Isolated" 99.9% uptime./ ❄️ social-skills: 404 NOT FOUND "E
 <h3 align="center">💧 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NekoScripty&bg_color=11111b&title_color=87CEEB&text_color=cdd6f4&icon_color=87CEEB&show_icons=true&count_private=true&hide_border=true" height="170px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NekoScripty&background=11111b&stroke=11111b&ring=87CEEB&fire=87CEEB&currStreakNum=cdd6f4&currStreakLabel=87CEEB&sideNums=cdd6f4&sideLabels=87CEEB&dates=cdd6f4&hide_border=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NekoScripty&bg_color=00000000&title_color=87CEEB&text_color=cdd6f4&icon_color=87CEEB&show_icons=true&count_private=true&hide_border=true" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NekoScripty&background=00000000&stroke=11111b&ring=87CEEB&fire=87CEEB&currStreakNum=cdd6f4&currStreakLabel=87CEEB&sideNums=cdd6f4&sideLabels=87CEEB&dates=cdd6f4&hide_border=true" height="170px" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NekoScripty&bg_color=11111b&color=cdd6f4&line=87CEEB&point=87CEEB&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NekoScripty&bg_color=00000000&color=cdd6f4&line=87CEEB&point=87CEEB&area=true&hide_border=true" width="100%" />
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer" width="100%" />
 </div>
