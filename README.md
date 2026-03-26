@@ -44,7 +44,7 @@
   </p>
 </div>
 
-<h3 align="center">📊 GitHub Analytics</h3>
+<h3 align="center">👾 GitHub Analytics</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NekoScripty&bg_color=00000000&title_color=A371F7&text_color=cdd6f4&icon_color=A371F7&show_icons=true&count_private=true&hide_border=true" height="170px" />
