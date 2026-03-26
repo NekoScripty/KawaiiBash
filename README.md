@@ -40,7 +40,7 @@
 <div align="center">
   <h3><img src="https://api.iconify.design/lucide:database.svg?color=%23a371f7" width="20" /> Tech Stack</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,bash,linux,arch,github,vim&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,bash,linux,arch,github,vim&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=ruby,html,css&theme=dark" />
   </p>
 </div>
