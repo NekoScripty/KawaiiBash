@@ -47,7 +47,7 @@
 <h3 align="center">👾 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?style=for-the-badge&logo=github&color=A371F7&labelColor=1e1e2e" alt="Total Stars" />
+  <img src="https://img.shields.io/github/stars/[NekoScripty]?style=for-the-badge&logo=github&color=A371F7&labelColor=1e1e2e" alt="Total Stars" />
   <img src="https://github-readme-stats.vercel.app/api?username=NekoScripty&bg_color=00000000&title_color=A371F7&text_color=cdd6f4&icon_color=A371F7&show_icons=true&count_private=true&hide_border=true" height="170px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NekoScripty&background=00000000&stroke=11111b&ring=A371F7&fire=A371F7&currStreakNum=cdd6f4&currStreakLabel=A371F7&sideNums=cdd6f4&sideLabels=A371F7&dates=cdd6f4&hide_border=true" height="170px" />
   <br/>
