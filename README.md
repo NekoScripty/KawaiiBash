@@ -47,7 +47,13 @@
 <h3 align="center">👾 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/NekoScripty?style=for-the-badge&logo=github&color=A371F7&labelColor=1e1e2e" alt="Total Stars" /><br>
+  <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1e1e2e" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1e1e2e" alt="Bash" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=1e1e2e" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white&labelColor=1e1e2e" alt="Vim" />
+</p>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=NekoScripty&bg_color=00000000&title_color=A371F7&text_color=cdd6f4&icon_color=A371F7&show_icons=true&count_private=true&hide_border=true" height="170px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NekoScripty&background=00000000&stroke=11111b&ring=A371F7&fire=A371F7&currStreakNum=cdd6f4&currStreakLabel=A371F7&sideNums=cdd6f4&sideLabels=A371F7&dates=cdd6f4&hide_border=true" height="170px" />
   <br/>
