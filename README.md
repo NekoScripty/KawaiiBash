@@ -25,8 +25,6 @@ $ status | grep "Isolated" 99.9% uptime./ ❄️ social-skills: 404 NOT FOUND "E
   </tr>
 </table>
 <p>
-        🐬 <b>About Me: </b> I am a dedicated <b>Technology Enthusiast</b> and <b>Automation Learner</b> with a focus on system-level logic. 
-        I am mastering <code style="color: #87CEEB;">Python</code> and <code style="color: #87CEEB;">Bash Scripting</code> to create <b>efficient Linux environments</b> and <b>Automation Utility Tools</b> that streamline complex tasks and optimize digital workflows. <br>
         ❄️ <b>Focus: </b> Linux Systems & Python Scripting & Shell Logic <br>
         💎 <b>Objective: </b> Solving Problems Through Technical Automation & Helping Others with Code-Driven Solutions<br>
          Whale <b>Mastering:</b> 
