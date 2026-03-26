@@ -27,7 +27,7 @@ $ status | grep "Isolated" 99.9% uptime./ ❄️ social-skills: 404 NOT FOUND "E
 <p>
         ❄️ <b>Focus: </b> Linux Systems & Python Scripting & Shell Logic <br>
         💎 <b>Objective: </b> Solving Problems Through Technical Automation & Helping Others with Code-Driven Solutions<br>
-         Whale <b>Mastering:</b> 
+          <b>Mastering:</b> 
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=87CEEB" alt="Python" /></a>
     <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-1e1e2e?style=for-the-badge&logo=gnubash&logoColor=87CEEB" alt="Bash" /></a>
     <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=archlinux&logoColor=87CEEB" alt="Arch" /></a>
