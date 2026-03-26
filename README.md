@@ -22,8 +22,8 @@
 </table>
 <p>
         🔮 <b>Focus:</b> Linux Systems & Python Scripting & Shell Logic <br>
-        ⚛️ <b>Objective:</b> Solving Problems Through Technical Automation & Helping Others with Code-Driven Solutions<br>
-          🛸 <b>Mastering:</b> 
+        🍇 <b>Objective:</b> Solving Problems Through Technical Automation & Helping Others with Code-Driven Solutions<br>
+          🪻 <b>Mastering:</b> 
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=A371F7" alt="Python" /></a>
     <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-1e1e2e?style=for-the-badge&logo=gnubash&logoColor=A371F7" alt="Bash" /></a>
     <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=archlinux&logoColor=A371F7" alt="Arch" /></a>
