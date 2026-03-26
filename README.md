@@ -54,5 +54,3 @@
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=A371F7&height=120&section=footer" width="100%" />
 </div>
-
-<img src="https://github.com/NekoScripty/NekoScripty/blob/master/github-metrics.svg" width="100%" />
