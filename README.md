@@ -6,7 +6,7 @@
 
 <table align="center">
   <tr>
-    <td width="400" align="center">
+    <td width="290" align="center">
       <img src="Assets/purple.gif" 
            width="180px" 
            style="border-radius: 8px; border: 1px solid #A371F7;" />
